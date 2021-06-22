@@ -18,6 +18,11 @@ namespace communication_log
             Console.WriteLine("Because men want too.");
             Console.WriteLine("Charles jacked it up!");
             Console.WriteLine("Josh jacked it up!");
+            Console.BackgroundColor = ConsoleColor.Gray;
+            Console.WriteLine("Why do men die before their wife's...?");
+            Console.WriteLine("Line 1 Josh");
+            Console.WriteLine("Line 2 Josh");
+            Console.WriteLine("Line 3 Josh...");
             Console.Read();
 
         }
