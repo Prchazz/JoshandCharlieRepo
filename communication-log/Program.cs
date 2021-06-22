@@ -12,6 +12,8 @@ namespace communication_log
             Console.WriteLine("Houston witing for count down");
             Console.WriteLine("Houston push update");
             Console.WriteLine("Still Waiting!!");
+            Console.WriteLine("Hold your horses and watch your six, update coming.");
+            Console.WriteLine("Any luck?");
             Console.Read();
         }
     }
