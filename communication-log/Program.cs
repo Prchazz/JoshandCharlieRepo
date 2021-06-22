@@ -8,6 +8,10 @@ namespace communication_log
         {
             Console.WriteLine("Hello Pilot!");
             Console.WriteLine("Hello Control");
+            Console.WriteLine("Are you flying today?");
+            Console.WriteLine("Houston witing for count down");
+            Console.WriteLine("Houston push update");
+            Console.WriteLine("Still Waiting!!");
             Console.Read();
         }
     }
